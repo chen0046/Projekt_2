@@ -64,6 +64,7 @@ char inputCommandValue[100];
 char message[100];
 
 int main() {
+    printConsole();
 
     playerInput();
 
